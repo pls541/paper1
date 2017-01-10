@@ -1,1 +1,2 @@
 title: some stuff about git: a rope of son.
+Authors: Piper and Segisbert
